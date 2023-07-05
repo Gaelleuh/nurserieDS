@@ -1,0 +1,11 @@
+/* Fiche de Style css pour CV Gaelle */
+
+body {
+    margin: 5cm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2, h3, h4 {
+    text-align:left;
+}
+
